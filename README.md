@@ -14,4 +14,4 @@ In a slip ring rotor, the rotor consists of windings instead of bars.
 For more information go to >> **[https://oswos.com/induction-motor/](https://oswos.com/induction-motor/)**
 
 ## Other Sources
-[https://en.wikipedia.org/wiki/Induction_motor] (https://en.wikipedia.org/wiki/Induction_motor)
+- [https://en.wikipedia.org/wiki/Induction_motor/] (https://en.wikipedia.org/wiki/Induction_motor/)
