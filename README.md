@@ -15,3 +15,4 @@ For more information go to >> **[https://oswos.com/induction-motor/](https://osw
 
 ## Other Sources
 - https://en.wikipedia.org/wiki/Induction_motor
+- https://elektromotoren.blogspot.com/2022/03/asynchronmotor.html
